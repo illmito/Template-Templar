@@ -1,0 +1,13 @@
+**********************************
+*********Template Templar*********
+**********************************
+
+Ensure that there is a folder within OneDrive named "templates" which contains
+all txt files.
+
+
+templates >
+	Folder1 > temp1.txt, temp2.txt
+	Folder2 > temp1.txt. temp2.txt	
+
+this will in turn make Folder1 and Folder2 the Categories.
